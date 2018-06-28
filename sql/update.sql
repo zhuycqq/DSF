@@ -1,0 +1,1 @@
+insert into dsf_bankcode(bankcde,bankname) values('1031111111111','11111111');
